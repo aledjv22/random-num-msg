@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/aledjv22/random-num-msg#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-num-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
