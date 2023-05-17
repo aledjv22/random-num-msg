@@ -1,0 +1,24 @@
+{
+  "name": "random-num-msg",
+  "version": "1.0.0",
+  "description": "Random number messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledjv22/random-num-msg.git"
+  },
+  "keywords": [],
+  "author": "Victor Alejandro Díaz Jáuregui <victor.diaz.jauregui@mi.unc.edu.ar>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aledjv22/random-num-msg/issues"
+  },
+  "homepage": "https://github.com/aledjv22/random-num-msg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
